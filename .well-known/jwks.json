@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "kid": "alex-ecw-test-001",
+      "use": "sig",
+      "alg": "RS256",
+      "n": "y3ABzh9mQxgYxe8iA1dPCT3tgzfZDXw_tEQxFu8VadGPxRemH0gZ6IckDYfwtJgFrCKeu7pWAYtQP6_Z3vQhg3oSmY66fVgPvT6PWoCksHwLLpDCkz_nc8DC1cbQGuUhJP5OYhIjUkOddNRNhipExLObBeGDsSHeCYZ0Pp7lDME-30ZXEDAkoXeWgOMvwT0g2lzlw_GHqvgEEjBtaHjP58rdNiS03RpZKtqYrPK2JDPQKeLlPAZr5iScxG7xCMLAnh9g40u7qJJfMVVDyJP75Yn_5P3Nfpx1uXRkqdEu8xneYfaC617vflG4yTwt7WQ8bxNAdfuZofKsR2yGihxqnw",
+      "e": "AQAB"
+    }
+  ]
